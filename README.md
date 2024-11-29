@@ -13,7 +13,11 @@
 * AI folder
  
   * 2048 folder
-   * Scope of this project was to develop as efficient AI as possible to maximise the score in 2048 game. 
+   * Scope of this project was to develop as efficient AI as possible to maximise the score in 2048 game.
+     * AI_heuristics.py -file contains different heuristics to make the game more efficient
+     *  constants.py -file containts the game board ui
+     *  logic.py -file contains the basic game logic
+     *  puzzle.py -file is the main program
     
   * A_Star_Final.ipynb -file
     * In this project we created an ai which finds the shortest path in labyrinth. Movement is only allowed forward and right.
