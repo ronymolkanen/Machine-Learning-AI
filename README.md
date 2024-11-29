@@ -1,4 +1,4 @@
-# Machine-Learning-AI
+# Machine-Learning-AI :robot:
 
 * Solutions in Pattern Recognition folder
   
